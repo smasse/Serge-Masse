@@ -1,4 +1,4 @@
-# Serge-Masse
+# Serge Masse
 
 My android apps are distributed on Google Play(TM).
 
