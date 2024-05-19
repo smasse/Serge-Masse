@@ -1,7 +1,8 @@
 # How to Chat with Dolphins
 
 Serge Masse
-2024-5-2
+Created 2024-5-2
+Last editer 2024-5-19
 sergemasse1@gmail.com 
 
 These instructions show that chatting with dolphins may be easier than expected, when using specially designed software such as DC Dolphin Communicator or some other application
@@ -30,13 +31,16 @@ These instructions show that chatting with dolphins may be easier than expected,
 
 ### 1.6. Optional special waterproof tablet (more expensive)
 
-### 1.7. Test the equipment:
+### 1.7. Test the equipment, Test your session plan:
 
-- Test in air: two devices, and one device with self-test mode
+- Test in air: two devices, or one device with self-test mode
+	- Two devices are excellent for having one simulating a dolphin; this allows for testing your session design and different strategies within the limitations of the app.
 
 - Test with tablet in air with hydrophones (in water)
 
-- Test in water
+- Test in water: tablet and hydrophones in water
+	- all in one bag
+ 	- or using more difficult cable connections or wifi connections (wifi is not great in water and cables cause water leaks)
 
 - Test your initial predefined whistles
 
@@ -71,6 +75,10 @@ These instructions show that chatting with dolphins may be easier than expected,
 
 - Tursiop truncatus, or close relative
 - Stenella frontalis, or close relative
+- species using a lot of whistles, because that's all the app can do currently
+- species that use a lot of whistles also use other vocalizations with them but we'll need to have the dolphin learn our limitations and work with them
+- belugas use very complex vocalisations with some whistles but these seem to be too complex for the app at this time
+- possibly Orcinus orcas, but I am not sure about their whistle repertoire
 
 ### 2.5. Possible Locations: 
 
@@ -81,7 +89,7 @@ These instructions show that chatting with dolphins may be easier than expected,
 	- Africa
 
 - From shore, examples:	
-	- Sanctuary for dolphins that were captive performers
+	- Sanctuary for dolphins that were captive performers (a few are being setup)
 	- Western Australia (requires local support)
 
 - Commercial whale watching operator (refuse unethical ones)
