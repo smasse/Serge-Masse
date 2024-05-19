@@ -1,8 +1,11 @@
 # How to Chat with Dolphins
 
 Serge Masse
+
 Created 2024-5-2
-Last editer 2024-5-19
+
+Last edited 2024-5-19
+
 sergemasse1@gmail.com 
 
 These instructions show that chatting with dolphins may be easier than expected, when using specially designed software such as DC Dolphin Communicator or some other application
