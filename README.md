@@ -2,7 +2,7 @@
 
 My android apps are distributed on Google Play(TM).
 
-https://github.com/smasse/Serge-Masse/blob/main/phases.md 
+[Possible Phases of Dolphin Communication Progress](https://github.com/smasse/Serge-Masse/blob/main/phases.md) 
 
 Support: sergemasse1@yahoo.com
 
