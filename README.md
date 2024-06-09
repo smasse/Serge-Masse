@@ -2,6 +2,8 @@
 
 My android apps are distributed on Google Play(TM).
 
+[How to Start Chatting with Dolphins](https://github.com/smasse/Serge-Masse/blob/main/How-to-chat-with-dolphins.md)
+
 [Possible Phases of Dolphin Communication Progress](https://github.com/smasse/Serge-Masse/blob/main/phases.md) 
 
 Support: sergemasse1@yahoo.com
