@@ -22,5 +22,5 @@ Serge Masse
 
 ### 6. after many years of using human defined whistles, eventually we will learn some of the natural whistles and other vocalisations
   - it will be even more years before we can fully understand one dolphin species or a few dolphin species communication, as this is somewhat different from one species to another
-  - it will be very challenging technically to develop tools for this research 
+  - it will be very challenging technically to develop tools for this research; dolphins often emit whistles over one another, sometimes 5 overlapping whistles, for some minutes, and they emit clicks at the same time as whistles 
   - one of the main applications may be the support of emergency health care for dolphins as this seems to be one area where we humans may have an advantage (e.g., our antibiotics do work well for dolphins)
