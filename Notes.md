@@ -11,3 +11,9 @@ Tom Mustill https://www.linkedin.com/in/tom-mustill-01b3663a/ How to Speak Whale
 
 Fabienne Delfour 
 
+Mark Hamilton
+
+Israeli startup with members with Navy experience
+
+whale seeker
+
