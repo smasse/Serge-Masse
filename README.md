@@ -10,17 +10,17 @@ DS is DC with added functionality for reacting when certain whistles are picked 
 
 Since 2023, the source code is proprietary in order to increase safety for cetaceans. I may allow trusted people to clone some projects if requested.
 
-## Some texts:
-
-[How to Start Chatting with Dolphins](https://github.com/smasse/Serge-Masse/blob/main/How-to-chat-with-dolphins.md)
-
-[Possible Phases of Dolphin Communication Progress](https://github.com/smasse/Serge-Masse/blob/main/phases.md) 
-
 ## Contact:
 
 Support: sergemasse1@yahoo.com
 
 Owner: sergemasse1@gmail.com
+
+## Some texts:
+
+[How to Start Chatting with Dolphins](https://github.com/smasse/Serge-Masse/blob/main/How-to-chat-with-dolphins.md)
+
+[Possible Phases of Dolphin Communication Progress](https://github.com/smasse/Serge-Masse/blob/main/phases.md) 
 
 ### [Privacy Policy](https://github.com/smasse/Serge-Masse/blob/main/privacy-policy.md)
 
