@@ -22,4 +22,6 @@ Since 2023, the source code is proprietary in order to increase safety for cetac
 
 [Privacy Policy](https://github.com/smasse/Serge-Masse/blob/main/privacy-policy.md)
 
+[Miscellaneous Notes on Dolphin Communicatior](https://github.com/smasse/Serge-Masse/blob/main/Notes.md)
+
 [//]: # https://smasse.github.io/Serge-Masse/ 
