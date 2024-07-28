@@ -10,6 +10,8 @@ DS is DC with added functionality for reacting when certain whistles are picked 
 
 Since 2023, the source code is proprietary in order to increase safety for cetaceans. I may allow trusted people to clone some projects if requested.
 
+### [Privacy Policy](https://github.com/smasse/Serge-Masse/blob/main/privacy-policy.md)
+
 ## Contact:
 
 Support: sergemasse1@yahoo.com
@@ -22,8 +24,6 @@ Owner: sergemasse1@gmail.com
 
 [Possible Phases of Dolphin Communication Progress](https://github.com/smasse/Serge-Masse/blob/main/phases.md) 
 
-### [Privacy Policy](https://github.com/smasse/Serge-Masse/blob/main/privacy-policy.md)
-
-### [Miscellaneous Notes on Dolphin Communication](https://github.com/smasse/Serge-Masse/blob/main/Notes.md)
+[Miscellaneous Notes on Dolphin Communication](https://github.com/smasse/Serge-Masse/blob/main/Notes.md)
 
 [//]: # https://smasse.github.io/Serge-Masse/ 
