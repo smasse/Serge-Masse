@@ -15,6 +15,7 @@ Mark Hamilton
 
 http://www.deepvoicefoundation.com/  
 Israeli startup with members with Navy experience
+Avihai Azubel co-founder https://www.linkedin.com/in/avihai-azubel/ 
 
 whale seeker
 
