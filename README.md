@@ -1,10 +1,14 @@
 # Serge Masse
 
-My Android apps are distributed on Google Play(TM).
+Only one of my Android apps is distributed on Google Play(TM).
 
-[DC Dolphin Communicator](https://play.google.com/store/apps/details?id=sm.app.dc&pli=1)
+[SM Spectrogram](https://play.google.com/store/apps/details?id=sm.app.spectro&hl=en_CA)
 
-[DS Dolphin Surface](https://play.google.com/store/apps/details?id=sm.app.ds&hl=en_US)
+These two are now unpublised and can be obtained by sending me a request by email:
+
+DC Dolphin Communicator
+
+DS Dolphin Surface
 
 DS is DC with added functionality for reacting when certain whistles are picked up, such as sending an email to staff when an alert whistle is emitted by dolphins in a sanctuary. The definition of such reactions will be improved in future versions in order to improve autonomous operations by DS; human users will be able to define the reaction process to be performed by DS and the whistles that trigger them (e.g., sequences).
 
