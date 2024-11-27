@@ -14,6 +14,8 @@ DS is DC with added functionality for reacting when certain whistles are picked 
 
 Since 2023, the source code is proprietary in order to increase safety for cetaceans. I may allow trusted people to clone some projects if requested.
 
+2024-11-26 I unpublished my dolphin communicator app from the Google Play™ store. Existing users can still find it and would receive updates via the store if I updated it (but I am not planning to). I am planning to send new versions in personal emails to my contacts directly. This is mainly for security/ethical reasons, as communication with dolphins is getting more media coverage these days, and the chances that my apps are misused are increasing (misused here means unethical use). There are very few usage controls available when an app is published in a store.
+
 ### [Privacy Policy](https://github.com/smasse/Serge-Masse/blob/main/privacy-policy.md)
 
 ## Contact:
