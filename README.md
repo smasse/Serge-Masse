@@ -6,9 +6,9 @@ Only one of my Android apps is distributed on Google Play(TM).
 
 These two are now unpublised and can be obtained by sending me a request by email:
 
-DC Dolphin Communicator
+**DC Dolphin Communicator**
 
-DS Dolphin Surface
+**DS Dolphin Surface**
 
 DS is DC with added functionality for reacting when certain whistles are picked up, such as sending an email to staff when an alert whistle is emitted by dolphins in a sanctuary. The definition of such reactions will be improved in future versions in order to improve autonomous operations by DS; human users will be able to define the reaction process to be performed by DS and the whistles that trigger them (e.g., sequences).
 
