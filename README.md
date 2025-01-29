@@ -1,5 +1,7 @@
 # Serge Masse
 
+[wasm demo](https://github.com/smasse/Serge-Masse/blob/main/wasmdemo/index.html)
+
 Only one of my Android apps is distributed on Google Play(TM).
 
 [SM Spectrogram](https://play.google.com/store/apps/details?id=sm.app.spectro&hl=en_CA)
